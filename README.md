@@ -1,3 +1,5 @@
+git clone https://github.com/dmitry798/Credit-project.git
+
 # Тема: Анализ нефтяной зависимости России
 
 **Цель работы:**
